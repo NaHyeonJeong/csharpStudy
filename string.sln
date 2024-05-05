@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSearchApp", "ConsoleA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringModifyApp", "StringModifyApp\StringModifyApp.csproj", "{ED02D68D-AB17-44DA-B0FA-BACD8AB99EB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSliceApp", "StringSliceApp\StringSliceApp.csproj", "{56062194-F852-4D34-808A-323BA2E015C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ED02D68D-AB17-44DA-B0FA-BACD8AB99EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED02D68D-AB17-44DA-B0FA-BACD8AB99EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED02D68D-AB17-44DA-B0FA-BACD8AB99EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56062194-F852-4D34-808A-323BA2E015C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56062194-F852-4D34-808A-323BA2E015C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56062194-F852-4D34-808A-323BA2E015C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56062194-F852-4D34-808A-323BA2E015C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
